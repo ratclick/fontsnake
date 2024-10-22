@@ -27,4 +27,4 @@ class snake {
 }
 
 
-export default snake;
+export {snake};

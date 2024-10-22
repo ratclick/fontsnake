@@ -1,4 +1,4 @@
-import snake from "./snake.js";
+import {snake} from "./snake.js";
 
 let pwidth = 1920;
 let pheight = 1080;
